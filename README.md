@@ -15,7 +15,7 @@ Pour lancer le programme suivez ces etapes :
 
 Pour creér le binaire :
 ```bash
-  Make
+  make
 ```
 Ensuite l'éxecuter :
 ```bash
