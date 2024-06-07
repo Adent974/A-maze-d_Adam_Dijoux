@@ -31,7 +31,7 @@ Creér le fichier generated_map.txt :
 ```
 Puis, executer le visualiseur avec la map génerer :
 ```bash
-  ../amazed < generated_map.txt | ./src/bonus/visualizer/visualizer 
+  ../amazed < generated_map.txt | ./bonus/visualizer/visualizer 
 ```
 
 
