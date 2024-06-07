@@ -7,7 +7,7 @@ Ce projets utilise un algorithme semblable à celui de Dijkstra, il permet à de
 
 **Langage :** C
 
-**Libraire:** CSFML
+**Librairie:** CSFML
 
 ## Lancer un test
 
